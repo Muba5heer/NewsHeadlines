@@ -1,3 +1,7 @@
+
+
+
+
 NM-PROJECT (KOTLIN APPLICATION FOR NEWSHEADLINES):-
 
 Team Members:
@@ -8,6 +12,7 @@ Team Members:
 5. Swetha
 
 DEMO VIDEO [SCREENRECORD] 
+https://github.com/user-attachments/assets/e4e6edb4-3b9f-42d1-8182-2c3c8df527a5
 
 SCREENSHOTS !
 ![Screenshot_20241121_150837](https://github.com/user-attachments/assets/863ae319-cd30-48fc-8a1c-178d0da65225)
