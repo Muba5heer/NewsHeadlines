@@ -12,7 +12,7 @@ Team Members:
 5. Swetha
 
 PRESENTATION 📋
-
+(https://github.com/user-attachments/files/17850441/News.application.code.docume.pdf.pdf) .
 
 DEMO VIDEO [SCREENRECORD] 
 https://github.com/user-attachments/assets/e4e6edb4-3b9f-42d1-8182-2c3c8df527a5
